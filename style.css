@@ -106,3 +106,20 @@ ul li {
     font-weight: bold;
 }
 
+div + p {
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+
+    margin-top: 65px;
+}
+
+footer img {
+    width: 16px;
+    height: 16px;
+    vertical-align: middle;
+    
+}
+
